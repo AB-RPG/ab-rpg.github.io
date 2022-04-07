@@ -5,6 +5,7 @@
   align-items: center;
   justify-content: center;
   color: #fff;
+  text-align: justify;
 }
 
 #criações h1 {
@@ -24,20 +25,6 @@ font-weight: bold;
 #criações h1:nth-of-type(1) {
   margin-top: 0px;
 }
-
-#criações tec{
-  display: none;
-  width: 570px;
-  padding: 20px 40px;
-  background: #1b1919;
-  margin-top: 10px;
-  border-radius: 0px 0px 5px 5px;
-  font-family: poppins;
-  font-size: 13px;
-text-align: justify;
-}
-
-
 
 /* latin-ext */
 @font-face {
