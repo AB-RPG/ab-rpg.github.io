@@ -4,7 +4,6 @@
   border-radius: 5px;
   align-items: center;
   justify-content: center;
-  color: #fff;
   text-align: justify;
 }
 
@@ -12,7 +11,7 @@
   font-size: 20px;
   text-transform: uppercase;
   font-family: poppins;
-  background: #74aacc;
+  background: #74AACC;
   height: 10px;
   border-radius: 5px;
   line-height: 10px;
